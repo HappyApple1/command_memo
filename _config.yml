@@ -2,7 +2,12 @@ title: Gitでよく使うコマンド
 description: A starter template for a Jeykll site using the Just the Docs theme!
 remote_theme: just-the-docs
 
-search_enabled: true
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 
 url: https://just-the-docs.github.io
 
