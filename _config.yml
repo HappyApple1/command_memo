@@ -11,7 +11,7 @@ url: https://just-the-docs.github.io
 
 defaults:
   - scope:
-      path: "**/*.md"
+      path: "docs"
     values:
       layout: "default"
 
