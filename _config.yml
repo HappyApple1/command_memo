@@ -1,6 +1,9 @@
 title: Gitでよく使うコマンド
 description: A starter template for a Jeykll site using the Just the Docs theme!
 remote_theme: just-the-docs
+baseurl: docs
+
+repositry: HappyApple1/template
 
 permalink: pretty
 
@@ -8,8 +11,7 @@ url: https://just-the-docs.github.io
 
 defaults:
   - scope:
-      path: "docs" # an empty string here means all files in the project
-      type: "pages"
+      path: "**/*.md"
     values:
       layout: "default"
 
