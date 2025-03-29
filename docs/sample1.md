@@ -1,7 +1,7 @@
 ---
 title: sample
 nav_order: 2
-kayout: default
+layout: default
 ---
 
 test
