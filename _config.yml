@@ -86,7 +86,10 @@ callouts:
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
-
+  
+gems:
+  - jekyll-sitemap
+  
 kramdown:
   syntax_highlighter_opts:
     block:
