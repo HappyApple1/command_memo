@@ -1,7 +1,6 @@
 ---
-layout: pages
 title: sample
-nav_enabled: true
+nav_order: 2
 ---
 
 test
