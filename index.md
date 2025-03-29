@@ -1,6 +1,6 @@
 ---
 title: Gitでよく使うコマンド
-layout: home
+layout: default
 nav_order: 1
 permalink: /
 ---
