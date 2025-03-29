@@ -1,6 +1,7 @@
 ---
 title: Gitでよく使うコマンド
 layout: home
+nav_enabled: true
 ---
 
 
