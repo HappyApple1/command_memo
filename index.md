@@ -1,7 +1,7 @@
 ---
 title: Gitでよく使うコマンド
 layout: home
-nav_enabled: true
+nav_order: 1
 ---
 
 
