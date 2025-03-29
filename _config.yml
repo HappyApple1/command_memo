@@ -6,8 +6,6 @@ repositry: HappyApple1/template
 
 permalink: pretty
 
-url: https://just-the-docs.github.io
-
 defaults:
   - scope:
       path: "docs"
