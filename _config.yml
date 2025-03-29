@@ -3,8 +3,7 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 remote_theme: just-the-docs
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "pages"
     values:
