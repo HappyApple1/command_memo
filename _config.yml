@@ -1,7 +1,6 @@
 title: Gitでよく使うコマンド
 description: A starter template for a Jeykll site using the Just the Docs theme!
 remote_theme: just-the-docs
-baseurl: docs
 
 repositry: HappyApple1/template
 
