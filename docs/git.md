@@ -3,7 +3,7 @@ title: Git
 nav_order: 2
 layout: default
 ---
-## 目次<!-- omit from toc --> 
+## 目次<!-- omit from toc -->
 
 - [1. ブランチ](#1-ブランチ)
   - [1.1. ブランチ名変更](#11-ブランチ名変更)
