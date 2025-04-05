@@ -86,8 +86,10 @@ edit <commit-ID3> READMEとindex修正
 ``` bash
 git reset HEAD^
 git add README
-git commit -m 'README修正' $ git add index.html
-git commit -m 'index.html修正' $ git rebase --continue
+git commit -m 'README修正'
+git add index.html
+git commit -m 'index.html修正'
+git rebase --continue
 ```
 
 ## 3. 変更待避
